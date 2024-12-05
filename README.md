@@ -1,10 +1,10 @@
-# EcoConnect 🌱  
+# EcoCredix 🌱  
 **Building a greener future through data-driven insights and community engagement.**  
 
 ---
 
 ## 📋 Overview  
-EcoConnect is a mobile app designed to promote sustainable environmental practices. By leveraging data collection, AI-powered analysis, and a reward-based system, it empowers individuals and communities to take meaningful action for a healthier planet.
+EcoCredix  is a mobile app designed to promote sustainable environmental practices. By leveraging data collection, AI-powered analysis, and a reward-based system, it empowers individuals and communities to take meaningful action for a healthier planet.
 
 ---
 
